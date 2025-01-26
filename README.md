@@ -50,6 +50,7 @@
 
 ## 📊 GitHub Journey
 
+### 🚀 Overall Stats
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=EVANluasi&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
@@ -68,9 +69,23 @@
 ### 🗂️ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EVANluasi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 Contributions Breakdown
+
+### 📈 Detailed Contribution Overview
+| Metric | Count |
+|--------|-------|
+| Total Contributions | ![](https://komarev.com/ghpvc/?username=EVANluasi&color=green) |
+| Total Repositories | ![GitHub User's stars](https://img.shields.io/github/stars/EVANluasi?affiliations=OWNER%2CCOLLABORATOR&style=social) |
+| Longest Streak | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EVANluasi&theme=dark&hide_border=false) |
+
+### 📊 Contribution Graph
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=EVANluasi&theme=github)
+
+### 🏅 Achievements
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=EVANluasi&theme=darkhub&no-frame=true&row=1&column=7)
+
 ---
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=EVANluasi&icon=0&color=0)
 
 Proudly crafted with passion and precision 🚀
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
