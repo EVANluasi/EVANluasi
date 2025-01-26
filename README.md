@@ -81,9 +81,25 @@
 ### 📊 Contribution Graph
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=EVANluasi&theme=github)
 
-### 🏅 Achievements
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=EVANluasi&theme=darkhub&no-frame=true&row=1&column=7)
+## 🏅 GitHub Achievements & Highlights
 
+### 🌟 Achievements Showcase
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=EVANluasi&theme=darkhub&no-frame=true&row=2&column=4)
+
+### 🏆 Detailed Achievement Breakdown
+
+| Achievement | Description | Status |
+|------------|-------------|--------|
+| 🔥 Streak Master | Consecutive Contributions | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EVANluasi&theme=dark) |
+| 🌍 Global Contributor | Contributions Across Repositories | ![Contributions](https://img.shields.io/badge/Total%20Contributions-1500%2B-brightgreen) |
+| 💻 Code Quality | Commits & Pull Requests | ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-150%2B-blue) |
+| 🚀 Project Innovation | Repositories Created | ![Repositories](https://img.shields.io/badge/Repositories-20%2B-orange) |
+| 🔍 Open Source Impact | Repositories Starred | ![Stars](https://img.shields.io/github/stars/EVANluasi?style=social) |
+
+### 📈 Achievement Progress
+![Progress](https://progress-bar.dev/75/?title=GitHub%20Profile%20Completeness&width=500)
+
+*Continuing to grow and innovate with every commit!* 🚀
 ---
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=EVANluasi&icon=0&color=0)
